@@ -1,11 +1,12 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "author":"Anthony Ha",
+         "title":"OpenAI’s GPT-5 reportedly falling short of expectations | TechCrunch",
+         "description":"OpenAI’s efforts to develop its next major model, GPT-5, are running behind schedule, with results that don’t yet justify the enormous costs, according to",
+         "url":"https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/",
+         "urlToImage":"https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
+         "content":"OpenAIs efforts to develop its next major model, GPT-5, are running behind schedule, with results that dont yet justify the enormous costs, according to a new report in The Wall Street Journal."
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
