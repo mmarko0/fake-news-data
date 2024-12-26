@@ -1,108 +1,68 @@
 {
-   "totalResults":10,
+   "totalResults":8,
    "articles":[
       {
-         "source":{
-            "id":"techcrunch",
-            "name":"TechCrunch"
-         },
          "author":"Anthony Ha",
          "title":"OpenAI’s GPT-5 reportedly falling short of expectations | TechCrunch",
          "description":"OpenAI’s efforts to develop its next major model, GPT-5, are running behind schedule, with results that don’t yet justify the enormous costs, according to",
          "url":"https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/",
          "urlToImage":"https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
-         "publishedAt":"2024-12-21T18:32:49Z",
          "content":"OpenAIs efforts to develop its next major model, GPT-5, are running behind schedule, with results that dont yet justify the enormous costs, according to a new report in The Wall Street Journal.\r\nThis… [+1093 chars]"
       },
       {
-         "source":{
-            "id":"techcrunch",
-            "name":"TechCrunch"
-         },
          "author":"Cody Corrall",
          "title":"OpenAI announces new o3 model — but you can’t use it yet | TechCrunch",
          "description":"Welcome back to Week in Review. This week, we’re looking at OpenAI’s last — and biggest — announcement from its “12 Days of OpenAI” event; Apple’s",
          "url":"https://techcrunch.com/2024/12/21/openai-announces-new-o3-model-but-you-cant-use-it-yet/",
          "urlToImage":"https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-912948496.jpg?resize=1200,912",
-         "publishedAt":"2024-12-21T18:07:15Z",
          "content":"Welcome back to Week in Review. This week, were looking at OpenAIs last and biggest announcement from its 12 Days of OpenAI event; Apples potential entrance into the foldable market; and why Databric… [+5049 chars]"
       },
       {
-         "source":{
-            "id":"techcrunch",
-            "name":"TechCrunch"
-         },
          "author":"Anthony Ha",
          "title":"Google pushes back against DOJ’s ‘interventionist’ remedies in antitrust case | TechCrunch",
          "description":"Google has offered up its own proposal in a recent antitrust case that saw the US Department of Justice argue that Google must sell its Chrome browser. US",
          "url":"https://techcrunch.com/2024/12/21/google-pushes-back-against-dojs-interventionist-remedies-in-antitrust-case/",
          "urlToImage":"https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2186206744.jpg?w=1024",
-         "publishedAt":"2024-12-21T16:15:29Z",
          "content":"Google has offered up its own proposal in a recent antitrust case that saw the US Department of Justice argue that Google must sell its Chrome browser.\r\nUS District Court Judge Amit Mehta ruled in Au… [+1747 chars]"
       },
       {
-         "source":{
-            "id":"techcrunch",
-            "name":"TechCrunch"
-         },
          "author":"Tim De Chant",
          "title":"If climate tech is dead, what comes next? | TechCrunch",
          "description":"Climate tech is about a decade old, and people are itching for a rebrand.",
          "url":"https://techcrunch.com/2024/12/21/if-climate-tech-is-dead-what-comes-next/",
          "urlToImage":"https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1160097088.jpg?resize=1200,800",
-         "publishedAt":"2024-12-21T16:02:55Z",
          "content":"Humans have an innate desire to name things, but to be honest, were not always that good at it.\r\nTake climate tech: its a category of companies and technologies that, broadly speaking, seek to minimi… [+3198 chars]"
       },
       {
-         "source":{
-            "id":"techcrunch",
-            "name":"TechCrunch"
-         },
          "author":"Dominic-madori Davis",
          "title":"Hollywood angels: Here are the celebrities who are also star VCs | TechCrunch",
          "description":"Becoming a venture capitalist has become the latest status symbol In Hollywood.  Everyone from Olivia Wilde to Emma Watson is investing in startups.",
          "url":"https://techcrunch.com/2024/12/21/hollywood-angels-here-are-the-celebrities-who-are-also-star-vcs/",
          "urlToImage":"https://techcrunch.com/wp-content/uploads/2024/12/hollywood-angel-v2.jpg?resize=1200,800",
-         "publishedAt":"2024-12-21T15:01:52Z",
          "content":"Becoming a venture capitalist has become the latest status symbol in Hollywood. \r\nEveryone these days, from Olivia Wilde to Emma Watson, is either launching a venture firm or is in the process of bac… [+8402 chars]"
       },
       {
-         "source":{
-            "id":"techcrunch",
-            "name":"TechCrunch"
-         },
          "author":"Paul Sawers",
          "title":"Meet Skyseed, a VC fund and incubator backing the Bluesky and AT Protocol ecosystem | TechCrunch",
          "description":"In November, Peter Wang sought ideas for a new fund to support the AT Protocol ecosystem. Four weeks later, he launched Skyseed.",
          "url":"https://techcrunch.com/2024/12/21/meet-skyseed-a-vc-fund-and-incubator-backing-the-bluesky-and-at-protocol-ecosystem/",
          "urlToImage":"https://techcrunch.com/wp-content/uploads/2024/12/Peter_Wang_profile_photo-1800x1800-1-e1734605382202.jpg?resize=1200,800",
-         "publishedAt":"2024-12-21T14:02:00Z",
          "content":"On November 15, Peter Wang posted a message requesting ideas for a new incubator and fund to support experimental projects built on the burgeoning Bluesky/AT Protocol ecosystem. Four weeks later, Sky… [+10835 chars]"
       },
       {
-         "source":{
-            "id":"techcrunch",
-            "name":"TechCrunch"
-         },
          "author":"Charles Rollet",
          "title":"Sam Altman disputes Marc Andreessen's description of AI meetings with Biden administration | TechCrunch",
          "description":"Sam Altman disputes Marc Andreessen's description of AI meetings with Biden administration | TechCrunchtechcrunch.com",
          "url":"https://techcrunch.com/2024/12/20/sam-altman-disputes-marc-andreessens-description-of-ai-meetings-with-biden-administration/",
          "urlToImage":"https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1934195443-e.jpg?resize=1200,800",
-         "publishedAt":"2024-12-21T00:04:55Z",
          "content":"Famed investor Marc Andreessen recently talked about meetings with Biden administration staff who gave him the impression they wanted to control AI by working closely with two or three big AI compani… [+699 chars]"
       },
       {
-         "source":{
-            "id":"techcrunch",
-            "name":"TechCrunch"
-         },
          "author":"Maxwell Zeff",
          "title":"Hong Kong's Startups Poised to Disrupt Industries with Human Centric Technology at CES | TechCrunch",
          "description":"The Consumer Electronics Show (CES) has long been at the forefront of technological innovation, serving as a vibrant hub for ideas and solutions to shape the future of tech. Each year, this premier global event brings together tech luminaries to solve the wor…",
          "url":"https://techcrunch.com/sponsor/hong-kong-science-and-technology-parks-corporation-hkstp/hong-kongs-startups-poised-to-disrupt-industries-with-human-centric-technology-at-ces/",
          "urlToImage":"https://techcrunch.com/wp-content/uploads/2024/11/Golden-Egg-5_v2_1024x653.jpg?w=1024",
-         "publishedAt":"2024-12-20T23:46:04Z",
          "content":"The Consumer Electronics Show (CES) has long been at the forefront of technological innovation, serving as a vibrant hub for ideas and solutions to shape the future of tech. Each year, this premier g… [+4790 chars]"
       }
    ]
